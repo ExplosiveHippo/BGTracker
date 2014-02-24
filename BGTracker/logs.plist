@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Logs</key>
+	<array>
+		<dict>
+			<key>Log Title</key>
+			<string>Pandemic 5/10/2013</string>
+			<key>Name</key>
+			<string>Pandemic</string>
+			<key>Players</key>
+			<array>
+				<string>Lance</string>
+				<string>Carla</string>
+				<string>Bradly</string>
+			</array>
+			<key>Notes</key>
+			<string>This game was fun</string>
+		</dict>
+		<dict>
+			<key>Log Title</key>
+			<string>Catan 5/11/2013</string>
+			<key>Name</key>
+			<string>Settlers of Catan</string>
+			<key>Players</key>
+			<array>
+				<string>Bob</string>
+				<string>Mike</string>
+				<string>Tom</string>
+			</array>
+			<key>Notes</key>
+			<string>This game sucked</string>
+		</dict>
+		<dict>
+			<key>Log Title</key>
+			<string>Mice and Mystic 5/13/2013</string>
+			<key>Name</key>
+			<string>Mice and Mystics</string>
+			<key>Players</key>
+			<array>
+				<string>Mike</string>
+				<string>Joe</string>
+				<string>Tim</string>
+				<string>Beth</string>
+			</array>
+			<key>Notes</key>
+			<string>This was our first time</string>
+		</dict>
+	</array>
+</dict>
+</plist>
